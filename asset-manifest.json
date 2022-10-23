@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DESKWALL/static/css/main.64981bb0.css",
-    "main.js": "/DESKWALL/static/js/main.258807fa.js",
+    "main.css": "/DESKWALL/static/css/main.cb93afa0.css",
+    "main.js": "/DESKWALL/static/js/main.3c8f1d96.js",
     "static/js/787.e1eeafcb.chunk.js": "/DESKWALL/static/js/787.e1eeafcb.chunk.js",
     "index.html": "/DESKWALL/index.html",
-    "main.64981bb0.css.map": "/DESKWALL/static/css/main.64981bb0.css.map",
-    "main.258807fa.js.map": "/DESKWALL/static/js/main.258807fa.js.map",
+    "main.cb93afa0.css.map": "/DESKWALL/static/css/main.cb93afa0.css.map",
+    "main.3c8f1d96.js.map": "/DESKWALL/static/js/main.3c8f1d96.js.map",
     "787.e1eeafcb.chunk.js.map": "/DESKWALL/static/js/787.e1eeafcb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64981bb0.css",
-    "static/js/main.258807fa.js"
+    "static/css/main.cb93afa0.css",
+    "static/js/main.3c8f1d96.js"
   ]
 }
